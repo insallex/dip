@@ -1,0 +1,9 @@
+.main_part {
+
+    background: linear-gradient(rgba(184, 180, 180, 0.8), rgba(250, 245, 245, 0.8)), url("../img/col3.jpg") 100% 100%;
+}
+
+.nav_bar{
+    background: #AE9994!important;
+
+}
